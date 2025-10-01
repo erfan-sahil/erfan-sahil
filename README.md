@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color:#4CAF50;">Erfanul Islam Sahil</span>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=4CAF50&center=true&vCenter=true&width=500&lines=Erfanul+Islam+Sahil;Full+Stack+Developer;Frontend+Specialist" alt="Typing SVG" />
 </h1>
 
 <p align="center">
