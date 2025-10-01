@@ -10,14 +10,14 @@
 
 ---
 
-### 🚀 Tech Stack
+###  Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,mongodb,mongoose,tailwind,git,github" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erfan-sahil&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfan-sahil&layout=compact&theme=tokyonight&hide_border=true" height="160" />
@@ -25,7 +25,7 @@
 
 ---
 
-### 🌐 Connect with Me
+###  Connect with Me
 <p align="center">
   <a href="mailto:erfansahil20@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
