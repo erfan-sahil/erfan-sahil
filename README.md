@@ -4,7 +4,7 @@
 
 <p align="center">
   <span style="color:#808080; font-size:16px;">
-    Full Stack Developer | Specializing in Modern Frontend Development
+   Full Stack Developer | Frontend Specialist
   </span>
 </p>
 
@@ -36,4 +36,10 @@
   <a href="https://github.com/erfan-sahil">
     <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Designing intuitive interfaces and building reliable web applications with modern technologies."</i>
 </p>
