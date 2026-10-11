@@ -1,63 +1,52 @@
-<div align="center">
-
 # Erfanul Islam Sahil
 
-**Full Stack Developer** · Frontend Specialist
+**Full Stack Developer** focused on frontend engineering.
+I build interfaces that feel simple to use and web applications that stay reliable as they grow.
 
-I design intuitive interfaces and build reliable web applications.
-
-<br>
-
-[Email](mailto:erfansahil20@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/erfan-sahil-5615881a0/) &nbsp;·&nbsp; [Facebook](https://www.facebook.com/share/175qFgvXhv/)
-
-</div>
-
-<br>
+[Email](mailto:erfansahil20@gmail.com) · [LinkedIn](https://www.linkedin.com/in/erfan-sahil-5615881a0/) · [Facebook](https://www.facebook.com/share/175qFgvXhv/)
 
 ---
 
-### About
+## What I do
 
-I work across the full stack, with a focus on the frontend: clean UI, solid architecture, and fast, accessible experiences. I like projects where design and engineering meet, and I care about the details that make software feel considered.
+|  |  |
+| :-- | :-- |
+| **Interfaces** | Component-driven UI, responsive layouts, accessible and fast by default |
+| **Applications** | Full-stack web apps with REST APIs, authentication, and clean data models |
+| **Infrastructure** | Caching, reverse proxying, and deployment setups that keep things stable |
 
-<br>
+---
 
-### Stack
+## Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind&theme=light" alt="Frontend" />
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,nginx&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,nginx&theme=light" alt="Backend" />
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=git,github&theme=light" alt="Tools" />
-</picture>
+**Frontend**
+![React](https://img.shields.io/badge/React-24292f?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-24292f?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-24292f?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-24292f?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<sub>**Frontend** React, Next.js, TypeScript, Tailwind &nbsp;·&nbsp; **Backend** Node.js, Express, MongoDB, Redis, Nginx &nbsp;·&nbsp; **Tools** Git, GitHub</sub>
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-24292f?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-24292f?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-24292f?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-24292f?style=flat-square&logo=redis&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-24292f?style=flat-square&logo=nginx&logoColor=white)
 
-<br>
+**Tooling**
+![Git](https://img.shields.io/badge/Git-24292f?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-24292f?style=flat-square&logo=github&logoColor=white)
 
-### GitHub
+---
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=erfan-sahil&show_icons=true&hide_border=true&border_radius=12&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&card_width=400&hide_title=true" />
-    <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=erfan-sahil&show_icons=true&hide_border=true&border_radius=12&bg_color=ffffff&title_color=24292f&text_color=57606a&icon_color=0969da&card_width=400&hide_title=true" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=erfan-sahil&layout=compact&hide_border=true&border_radius=12&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&card_width=300&langs_count=6" />
-    <img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfan-sahil&layout=compact&hide_border=true&border_radius=12&bg_color=ffffff&title_color=24292f&text_color=57606a&card_width=300&langs_count=6" />
-  </picture>
-</p>
+## Principles
 
-<br>
+- Clarity over cleverness, in both the interface and the code
+- Performance and accessibility are part of the first version, not a later pass
+- Small, well-named pieces that are easy to change
 
-<div align="center">
-<sub>Open to interesting projects and collaborations. Feel free to reach out.</sub>
-</div>
+---
+
+## Get in touch
+
+Open to interesting projects and thoughtful collaboration.
+Email is the fastest way to reach me: [erfansahil20@gmail.com](mailto:erfansahil20@gmail.com)
