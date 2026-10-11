@@ -1,80 +1,84 @@
-# Erfanul Islam Sahil
+ <div align="center">
 
-**Full Stack Developer · Frontend Engineering**
+# ERFANUL ISLAM SAHIL
 
-I build modern web applications with a focus on thoughtful interfaces, maintainable architecture, and reliable backend systems.
+**Full Stack Developer · Frontend-Focused Engineer**
 
-Currently strengthening my backend engineering skills while building full-stack products with React, Next.js, Node.js, and MongoDB.
+Building thoughtful digital experiences with modern web technologies.
 
-[Portfolio](https://erfan-sahil.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/erfan-sahil-5615881a0/) · [Email](mailto:erfansahil20@gmail.com)
+[Portfolio](https://erfan-sahil.vercel.app/) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/erfan-sahil-5615881a0/) &nbsp; / &nbsp; [Email](mailto:erfansahil20@gmail.com)
 
----
-
-### About
-
-I'm a Software Developer with a frontend-focused background and hands-on experience building web applications.
-
-My interests extend beyond the interface into API design, authentication, data modeling, caching, and application architecture.
-
-- **Currently building:** NexCart, a multi-vendor e-commerce platform.
-- **Previously built:** NexTask, a project management application.
-- **Focus areas:** Frontend engineering, backend development, and scalable web applications.
-- **Approach:** Simple interfaces, clear architecture, and code that's easy to maintain.
+</div>
 
 ---
 
-### Technology
+### PROFILE
+
+I'm a Software Developer with a strong focus on frontend engineering and a growing interest in backend architecture.
+
+I enjoy turning complex requirements into intuitive interfaces and building the systems behind them — from REST APIs and authentication to data modeling, caching, and application infrastructure.
+
+My goal is to build software that is not only functional and visually polished, but also maintainable and reliable as it evolves.
+
+---
+
+### CAPABILITIES
+
+| 01 — Interface Engineering | 02 — Application Development |
+|:--|:--|
+| Component-driven architecture, responsive layouts, reusable UI systems, and performance-conscious frontend development. | REST APIs, authentication, authorization, data modeling, and full-stack application architecture. |
+
+| 03 — Systems & Infrastructure | 04 — Engineering Practices |
+|:--|:--|
+| Caching, reverse proxying, deployment fundamentals, and an understanding of scalable backend systems. | Maintainable code, clear separation of concerns, validation, error handling, and continuous improvement. |
+
+---
+
+### TECHNOLOGY
 
 **Frontend**
 
-React · Next.js · TypeScript · JavaScript · Tailwind CSS
+`React` &nbsp; `Next.js` &nbsp; `TypeScript` &nbsp; `JavaScript` &nbsp; `Tailwind CSS`
 
-**Backend**
+**Backend & Data**
 
-Node.js · Express · MongoDB · Redis
+`Node.js` &nbsp; `Express` &nbsp; `MongoDB` &nbsp; `Redis`
 
-**Infrastructure & Tools**
+**Infrastructure & Workflow**
 
-Docker · Nginx · Git · GitHub · Postman
-
----
-
-### Selected Projects
-
-**NexCart** — Multi-Vendor E-Commerce
-
-A marketplace platform designed around independent sellers, product catalogs, inventory, and centralized administration.
-
-`Next.js` `TypeScript` `Node.js` `Express` `MongoDB` `Redis`
-
-**NexTask** — Project Management
-
-A workspace-based project management application featuring projects, boards, task workflows, member management, and role-based permissions.
-
-`Next.js` `TypeScript` `Node.js` `Express` `MongoDB`
+`Docker` &nbsp; `Nginx` &nbsp; `Git` &nbsp; `GitHub` &nbsp; `Postman`
 
 ---
 
-### Engineering Principles
+### CURRENT DIRECTION
 
-**Clarity over complexity.** Prefer straightforward solutions and well-defined responsibilities.
+I'm expanding my understanding of backend engineering while continuing to strengthen my frontend expertise.
 
-**User experience matters.** Build responsive, accessible interfaces that feel intuitive.
+My current learning priorities include:
 
-**Reliability by design.** Treat authentication, validation, error handling, and performance as essential parts of an application.
-
-**Keep learning.** Understand the underlying systems instead of relying on tools without understanding them.
-
----
-
-### Connect
-
-I'm open to interesting projects, collaborative opportunities, and conversations about web development.
-
-[erfansahil20@gmail.com](mailto:erfansahil20@gmail.com) · [LinkedIn](https://www.linkedin.com/in/erfan-sahil-5615881a0/) · [Portfolio](https://erfan-sahil.vercel.app/)
+- Designing maintainable backend architectures and REST APIs.
+- Building secure authentication and permission-based authorization.
+- Understanding caching, background processing, and application scalability.
+- Improving the way frontend and backend systems work together.
 
 ---
 
-<p align="center">
-  <sub>Thoughtful engineering. Continuous improvement.</sub>
-</p>
+### ENGINEERING PHILOSOPHY
+
+> Good software doesn't need unnecessary complexity. It needs clear decisions, thoughtful execution, and room to evolve.
+
+I value simplicity over cleverness, usability over visual noise, and maintainability over short-term convenience.
+
+---
+
+<div align="center">
+
+**LET'S CONNECT**
+
+Open to meaningful projects, collaboration, and opportunities to build better software.
+
+[erfansahil20@gmail.com](mailto:erfansahil20@gmail.com)
+
+<sub>Designed with intention. Built to keep improving.</sub>
+
+</div>
