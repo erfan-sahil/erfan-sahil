@@ -1,84 +1,42 @@
  <div align="center">
 
-# ERFANUL ISLAM SAHIL
+<a href="https://erfan-sahil.vercel.app/">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0f7d5b&text=ERFANUL%20ISLAM%20SAHIL&fontSize=36&fontColor=ffffff&fontAlignY=43&desc=FULL%20STACK%20DEVELOPER%20%2F%20FRONTEND-FOCUSED&descSize=13&descAlignY=68&descColor=e5f5ef" width="100%" alt="Erfanul Islam Sahil — Full Stack Developer" />
+</a>
 
-**Full Stack Developer · Frontend-Focused Engineer**
+<br/>
 
-Building thoughtful digital experiences with modern web technologies.
+I build modern web applications with a focus on **clean interfaces, maintainable code, and reliable systems.**
 
-[Portfolio](https://erfan-sahil.vercel.app/) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/erfan-sahil-5615881a0/) &nbsp; / &nbsp; [Email](mailto:erfansahil20@gmail.com)
+<a href="https://erfan-sahil.vercel.app/">PORTFOLIO</a> &nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/erfan-sahil-5615881a0/">LINKEDIN</a> &nbsp; · &nbsp;
+<a href="mailto:erfansahil20@gmail.com">EMAIL</a>
 
 </div>
 
 ---
 
-### PROFILE
+### WHAT I DO
 
-I'm a Software Developer with a strong focus on frontend engineering and a growing interest in backend architecture.
+Frontend engineering is my core strength. I'm expanding into backend architecture, API development, authentication, caching, and scalable web applications.
 
-I enjoy turning complex requirements into intuitive interfaces and building the systems behind them — from REST APIs and authentication to data modeling, caching, and application infrastructure.
+### TECHNOLOGIES
 
-My goal is to build software that is not only functional and visually polished, but also maintainable and reliable as it evolves.
+**Frontend**  
+`React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS`
 
----
+**Backend**  
+`Node.js` `Express` `MongoDB` `Redis`
 
-### CAPABILITIES
-
-| 01 — Interface Engineering | 02 — Application Development |
-|:--|:--|
-| Component-driven architecture, responsive layouts, reusable UI systems, and performance-conscious frontend development. | REST APIs, authentication, authorization, data modeling, and full-stack application architecture. |
-
-| 03 — Systems & Infrastructure | 04 — Engineering Practices |
-|:--|:--|
-| Caching, reverse proxying, deployment fundamentals, and an understanding of scalable backend systems. | Maintainable code, clear separation of concerns, validation, error handling, and continuous improvement. |
-
----
-
-### TECHNOLOGY
-
-**Frontend**
-
-`React` &nbsp; `Next.js` &nbsp; `TypeScript` &nbsp; `JavaScript` &nbsp; `Tailwind CSS`
-
-**Backend & Data**
-
-`Node.js` &nbsp; `Express` &nbsp; `MongoDB` &nbsp; `Redis`
-
-**Infrastructure & Workflow**
-
-`Docker` &nbsp; `Nginx` &nbsp; `Git` &nbsp; `GitHub` &nbsp; `Postman`
-
----
-
-### CURRENT DIRECTION
-
-I'm expanding my understanding of backend engineering while continuing to strengthen my frontend expertise.
-
-My current learning priorities include:
-
-- Designing maintainable backend architectures and REST APIs.
-- Building secure authentication and permission-based authorization.
-- Understanding caching, background processing, and application scalability.
-- Improving the way frontend and backend systems work together.
-
----
-
-### ENGINEERING PHILOSOPHY
-
-> Good software doesn't need unnecessary complexity. It needs clear decisions, thoughtful execution, and room to evolve.
-
-I value simplicity over cleverness, usability over visual noise, and maintainability over short-term convenience.
+**Infrastructure**  
+`Docker` `Nginx` `Git` `GitHub`
 
 ---
 
 <div align="center">
 
-**LET'S CONNECT**
+<a href="mailto:erfansahil20@gmail.com">OPEN TO COLLABORATION</a>
 
-Open to meaningful projects, collaboration, and opportunities to build better software.
-
-[erfansahil20@gmail.com](mailto:erfansahil20@gmail.com)
-
-<sub>Designed with intention. Built to keep improving.</sub>
+<sub>Thoughtful design. Reliable engineering.</sub>
 
 </div>
