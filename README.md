@@ -1,30 +1,24 @@
  <div align="center">
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/erfan-sahil/erfan-sahil/main/assets/name-banner.svg"
-    alt="Erfanul Islam Sahil"
-    width="100%"
-  />
-</div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/erfan-sahil/erfan-sahil/main/assets/name-banner.svg" alt="ERFANUL ISLAM SAHIL" width="100%" />
 
-<a href="https://erfan-sahil.vercel.app/">Portfolio</a> &nbsp; · &nbsp;
-<a href="https://github.com/erfan-sahil">GitHub</a> &nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/erfan-sahil-5615881a0/">LinkedIn</a> &nbsp; · &nbsp;
-<a href="mailto:erfansahil20@gmail.com">Email</a>
+# Erfanul Islam Sahil
+
+**Software Developer · Frontend-Focused · Full-Stack Enthusiast**
+
+[Portfolio](https://erfan-sahil.vercel.app/) · [GitHub](https://github.com/erfan-sahil) · [LinkedIn](https://www.linkedin.com/in/erfan-sahil-5615881a0/) · [Email](mailto:erfansahil20@gmail.com)
 
 </div>
 
 ---
 
-### ABOUT
+### About
 
 I'm a Software Developer with professional experience in frontend development and a growing focus on full-stack engineering.
 
 I enjoy building responsive user interfaces and reliable backend systems, with an emphasis on clean code, maintainability, and performance.
 
-### TECHNOLOGIES
+### Technologies
 
 **Frontend**
 
@@ -38,7 +32,7 @@ I enjoy building responsive user interfaces and reliable backend systems, with a
 
 `Git` · `GitHub` · `Docker` · `REST APIs`
 
-### CURRENT FOCUS
+### Current Focus
 
 - Building full-stack applications with maintainable architecture.
 - Improving backend design, authentication, and API development.
