@@ -1,140 +1,95 @@
-<img src="assets/banner.svg" alt="Erfanul Islam Sahil — Full Stack Developer" width="100%" />
+ <div align="center">
 
-<br>
+# ERFANUL ISLAM SAHIL
 
-<div align="center">
+### SOFTWARE DEVELOPER · FRONTEND ENGINEER
 
-[**About**](#about) &nbsp;&nbsp;·&nbsp;&nbsp; [**Stack**](#stack) &nbsp;&nbsp;·&nbsp;&nbsp; [**Work**](#selected-work) &nbsp;&nbsp;·&nbsp;&nbsp; [**Activity**](#activity) &nbsp;&nbsp;·&nbsp;&nbsp; [**Contact**](#contact)
+Building thoughtful digital experiences with modern web technologies.
+
+<br/>
+
+[Portfolio ↗](https://erfan-sahil.vercel.app/) &nbsp; · &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/erfan-sahil-5615881a0) &nbsp; · &nbsp; [Email ↗](mailto:erfansahil20@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=erfan-sahil&style=flat-square&color=10b981&label=PROFILE+VIEWS)
 
 </div>
 
-<br>
+---
 
-## About
+## `01` / ABOUT ME
 
-<table>
-<tr>
-<td width="62%" valign="top">
+I'm a Software Developer passionate about building polished, user-focused web applications.
 
-I design intuitive interfaces and build reliable web applications. My work sits where design and engineering meet: clean component architecture, accessible markup, and backends that stay stable as products grow.
+My primary focus is frontend engineering, where I work on responsive interfaces, intuitive user experiences, and maintainable code. I'm also expanding my backend expertise to build complete applications with reliable architecture and scalable foundations.
 
-I care about the details that make software feel considered, from spacing and motion to API design and caching strategy.
+I believe great software combines **thoughtful design, clean code, and meaningful functionality.**
 
-</td>
-<td width="38%" valign="top">
+---
 
-**Role**
-Full Stack Developer
+## `02` / TECHNOLOGY STACK
 
-**Focus**
-Frontend engineering, UI systems
+**FRONTEND DEVELOPMENT**
 
-**Approach**
-Clarity over cleverness. Performance and accessibility from day one.
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
-</td>
-</tr>
-</table>
+**BACKEND DEVELOPMENT**
 
-<br>
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=FF4438)
 
-## Stack
+**TOOLS & INFRASTRUCTURE**
 
-<table>
-<tr>
-<td width="33%" valign="top">
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Nginx](https://img.shields.io/badge/Nginx-0D1117?style=flat-square&logo=nginx&logoColor=009639)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF)
 
-**Frontend**
-<br><br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind&theme=dark&perline=4" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind&theme=light&perline=4" alt="Frontend stack" />
-</picture>
+---
 
-</td>
-<td width="33%" valign="top">
+## `03` / CURRENT FOCUS
 
-**Backend**
-<br><br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,nginx&theme=dark&perline=5" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,nginx&theme=light&perline=5" alt="Backend stack" />
-</picture>
+- Building full-stack applications with maintainable architecture.
+- Improving backend engineering, authentication, authorization, and API design.
+- Exploring caching, background processing, and scalable application infrastructure.
+- Writing clean, reusable code while continuously improving development practices.
 
-</td>
-<td width="33%" valign="top">
+---
 
-**Tooling**
-<br><br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github&theme=dark&perline=2" />
-  <img src="https://skillicons.dev/icons?i=git,github&theme=light&perline=2" alt="Tooling" />
-</picture>
+## `04` / WHAT I VALUE
 
-</td>
-</tr>
-</table>
+| Principle | Approach |
+|:--|:--|
+| **Clean Code** | Readable, maintainable, reusable solutions |
+| **User Experience** | Interfaces that feel intuitive and responsive |
+| **Performance** | Efficient applications with thoughtful optimization |
+| **Continuous Learning** | Improving skills through building real projects |
 
-<br>
+---
 
-## Selected Work
+## `05` / CONNECT WITH ME
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-**[Project One](https://github.com/erfan-sahil/your-repo)**
-One line on what it does and the problem it solves.
-<sub>`Next.js` `TypeScript` `MongoDB`</sub>
+### HAVE SOMETHING INTERESTING TO BUILD?
 
-</td>
-<td width="50%" valign="top">
+I'm open to connecting with developers, exploring opportunities, and collaborating on meaningful projects.
 
-**[Project Two](https://github.com/erfan-sahil/your-repo)**
-One line on what it does and the problem it solves.
-<sub>`React` `Node.js` `Redis`</sub>
+<br/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=10B981)](https://erfan-sahil.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/erfan-sahil-5615881a0)
+[![Email](https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:erfansahil20@gmail.com)
 
-**[Project Three](https://github.com/erfan-sahil/your-repo)**
-One line on what it does and the problem it solves.
-<sub>`Next.js` `Tailwind` `Express`</sub>
+<br/>
 
-</td>
-<td width="50%" valign="top">
+*THOUGHTFUL DESIGN. RELIABLE ENGINEERING. CONTINUOUS IMPROVEMENT.*
 
-**[Project Four](https://github.com/erfan-sahil/your-repo)**
-One line on what it does and the problem it solves.
-<sub>`React` `TypeScript` `Nginx`</sub>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Activity
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=erfan-sahil&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=9aa4bd&icon_color=7aa2f7&border_radius=12&card_width=420" />
-    <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=erfan-sahil&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=57606a&icon_color=0969da&border_radius=12&card_width=420" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=erfan-sahil&layout=compact&hide_border=true&bg_color=00000000&title_color=9aa4bd&text_color=9aa4bd&langs_count=6&card_width=320" />
-    <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfan-sahil&layout=compact&hide_border=true&bg_color=00000000&title_color=57606a&text_color=57606a&langs_count=6&card_width=320" />
-  </picture>
-</p>
-
-<br>
-
-## Contact
-
-Open to interesting projects and thoughtful collaboration.
-
-<a href="mailto:erfansahil20@gmail.com"><img src="https://img.shields.io/badge/Email-0b0f19?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/erfan-sahil-5615881a0/"><img src="https://img.shields.io/badge/LinkedIn-0b0f19?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-<a href="https://www.facebook.com/share/175qFgvXhv/"><img src="https://img.shields.io/badge/Facebook-0b0f19?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" /></a>
+</div>
