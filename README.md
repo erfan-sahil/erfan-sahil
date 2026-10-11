@@ -1,10 +1,11 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=ERFANUL%20ISLAM%20SAHIL&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=FULL%20STACK%20DEVELOPER%20%2F%20FRONTEND-FOCUSED&descSize=13&descAlignY=70&descColor=8b949e" width="100%" alt="Erfanul Islam Sahil" />
+<img src="./assets/name-banner.svg" width="100%" alt="Erfanul Islam Sahil — bright green block lettering" />
 
 <br/>
 
 <a href="https://erfan-sahil.vercel.app/">Portfolio</a> &nbsp; · &nbsp;
+<a href="https://github.com/erfan-sahil">GitHub</a> &nbsp; · &nbsp;
 <a href="https://www.linkedin.com/in/erfan-sahil-5615881a0/">LinkedIn</a> &nbsp; · &nbsp;
 <a href="mailto:erfansahil20@gmail.com">Email</a>
 
@@ -14,35 +15,36 @@
 
 ### ABOUT
 
-I'm a Software Developer focused on frontend engineering, with a growing interest in backend architecture and scalable web applications.
+I'm a Software Developer with professional experience in frontend development and a growing focus on full-stack engineering.
 
-I build intuitive interfaces and reliable application systems, with an emphasis on clean code, performance, and maintainability.
+I enjoy building responsive user interfaces and reliable backend systems, with an emphasis on clean code, maintainability, and performance.
 
-### TECHNOLOGY
+### TECHNOLOGIES
 
-**Frontend**  
-`React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS`
+**Frontend**
 
-**Backend**  
-`Node.js` `Express` `MongoDB` `Redis`
+`React` · `Next.js` · `TypeScript` · `JavaScript` · `Tailwind CSS`
 
-**Infrastructure & Tools**  
-`Docker` `Nginx` `Git` `GitHub`
+**Backend**
+
+`Node.js` · `Express.js` · `MongoDB` · `Redis`
+
+**Tools & Infrastructure**
+
+`Git` · `GitHub` · `Docker` · `REST APIs`
 
 ### CURRENT FOCUS
 
 - Building full-stack applications with maintainable architecture.
 - Improving backend design, authentication, and API development.
-- Learning caching, background processing, and application scalability.
+- Exploring caching, background jobs, and application scalability.
 
 ---
 
 <div align="center">
 
-<a href="mailto:erfansahil20@gmail.com">OPEN TO COLLABORATION</a>
+**BUILD · LEARN · IMPROVE**
 
-<br/><br/>
-
-<sub>Thoughtful design. Reliable engineering. Continuous improvement.</sub>
+<sub>Focused on writing better code and building better software.</sub>
 
 </div>
