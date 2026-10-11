@@ -1,8 +1,8 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=ERFANUL%20ISLAM%20SAHIL&fontSize=38&fontColor=10B981&fontAlignY=43&desc=SOFTWARE%20DEVELOPER%20%7C%20FRONTEND%20ENGINEER&descSize=13&descColor=C9D1D9&descAlignY=65" alt="Erfanul Islam Sahil — Software Developer and Frontend Engineer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=ERFANUL%20ISLAM%20SAHIL&fontSize=38&fontColor=10B981&fontAlignY=43&desc=SOFTWARE%20DEVELOPER&descSize=14&descColor=C9D1D9&descAlignY=65" alt="Erfanul Islam Sahil — Software Developer" />
 
-*Building intuitive interfaces. Engineering reliable applications.*
+*Building thoughtful interfaces and reliable applications.*
 
 </div>
 
@@ -10,17 +10,24 @@
 
 ### About Me
 
-Software Developer focused on frontend engineering, with growing expertise in backend development and scalable web applications. I enjoy creating intuitive user experiences, writing clean code, and building maintainable software with modern technologies.
+Software Developer focused on building modern web applications, with experience in frontend development and a growing focus on backend engineering, clean architecture, and scalable systems.
 
 ### Tech Stack
 
-**Frontend Development**
+**Frontend**
 
 ![React](https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=next.js&logoColor=FFFFFF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+
+**Frontend Libraries & Tools**
+
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-161B22?style=flat-square&logo=reacthookform&logoColor=EC5990)
+![Zod](https://img.shields.io/badge/Zod-161B22?style=flat-square&logo=zod&logoColor=3E67B1)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-161B22?style=flat-square&logo=reactquery&logoColor=FF4154)
+![Zustand](https://img.shields.io/badge/Zustand-161B22?style=flat-square&logo=react&logoColor=FFFFFF)
 
 **Backend & Infrastructure**
 
@@ -55,15 +62,9 @@ Software Developer focused on frontend engineering, with growing expertise in ba
 
 ### LET'S CONNECT
 
-<a href="https://erfan-sahil.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/erfan-sahil-5615881a0/">
-  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-</a>
-<a href="mailto:erfansahil20@gmail.com">
-  <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-</a>
+<a href="https://erfan-sahil.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/erfan-sahil-5615881a0/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="mailto:erfansahil20@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 
 <br/><br/>
 
