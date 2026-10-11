@@ -1,6 +1,11 @@
  <div align="center">
-
-<img src="./assets/name-banner.svg" width="100%" alt="Erfanul Islam Sahil — bright green block lettering" />
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/erfan-sahil/erfan-sahil/main/assets/name-banner.svg"
+    alt="Erfanul Islam Sahil"
+    width="100%"
+  />
+</div>
 
 <br/>
 
