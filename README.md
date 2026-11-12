@@ -52,17 +52,7 @@ Software Developer focused on building modern web applications, with experience 
 | System Architecture | Scalable architecture, modular design, API structure |
 | Infrastructure | Docker, Redis, deployment, environment configuration |
 
----
 
-<div align="center">
-
-### CURRENTLY EXPLORING
-
-**Backend Architecture · System Design · Scalable Applications**
-
-</div>
-
----
 
 <div align="center">
 
