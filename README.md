@@ -42,17 +42,23 @@ Software Developer focused on building modern web applications, with experience 
 
 ---
 
-### GitHub Statistics
+### Development Focus
+
+| Area | Focus |
+|---|---|
+| Frontend Engineering | Responsive interfaces, reusable components, state management |
+| Backend Development | REST APIs, authentication, authorization, business logic |
+| Database Design | Data modeling, relationships, query optimization |
+| System Architecture | Scalable architecture, modular design, API structure |
+| Infrastructure | Docker, Redis, deployment, environment configuration |
+
+---
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=erfan-sahil&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9&rank_icon=github" alt="GitHub Statistics" />
+### CURRENTLY EXPLORING
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfan-sahil&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9" alt="Most Used Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=erfan-sahil&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Contribution Streak" />
+**Backend Architecture · System Design · Scalable Applications**
 
 </div>
 
